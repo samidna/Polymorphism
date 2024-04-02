@@ -9,10 +9,10 @@ Circle circle = new Circle();
 circle.Radius = 5;
 Console.WriteLine(circle.CalculateArea());
 
-Rectangle rectangle = new();
-rectangle.Width = 5;
-rectangle.Height = 3;
-Console.WriteLine(rectangle.CalculateArea());
+Triangle triangle = new();
+triangle.Width = 5;
+triangle.Height = 3;
+Console.WriteLine(triangle.CalculateArea());
 
 Square square = new Square();
 square.Width = 6;

@@ -1,11 +1,11 @@
 ﻿namespace Polymorphism_Abstraction.Models;
 
-public class Rectangle : Shape
+public class Triangle : Shape
 {
     public double Width;
     public double Height;
     public override double CalculateArea()
     {
-      return Width * Height;
+      return (Width * Height)/2;
     }
 }
