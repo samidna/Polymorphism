@@ -1,0 +1,14 @@
+D:\C#\Polymorphism,Abstraction\bin\Debug\net6.0\Polymorphism,Abstraction.exe
+D:\C#\Polymorphism,Abstraction\bin\Debug\net6.0\Polymorphism,Abstraction.deps.json
+D:\C#\Polymorphism,Abstraction\bin\Debug\net6.0\Polymorphism,Abstraction.runtimeconfig.json
+D:\C#\Polymorphism,Abstraction\bin\Debug\net6.0\Polymorphism,Abstraction.dll
+D:\C#\Polymorphism,Abstraction\bin\Debug\net6.0\Polymorphism,Abstraction.pdb
+D:\C#\Polymorphism,Abstraction\obj\Debug\net6.0\Polymorphism,Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Polymorphism,Abstraction\obj\Debug\net6.0\Polymorphism,Abstraction.AssemblyInfoInputs.cache
+D:\C#\Polymorphism,Abstraction\obj\Debug\net6.0\Polymorphism,Abstraction.AssemblyInfo.cs
+D:\C#\Polymorphism,Abstraction\obj\Debug\net6.0\Polymorphism,Abstraction.csproj.CoreCompileInputs.cache
+D:\C#\Polymorphism,Abstraction\obj\Debug\net6.0\Polymorphism,Abstraction.dll
+D:\C#\Polymorphism,Abstraction\obj\Debug\net6.0\refint\Polymorphism,Abstraction.dll
+D:\C#\Polymorphism,Abstraction\obj\Debug\net6.0\Polymorphism,Abstraction.pdb
+D:\C#\Polymorphism,Abstraction\obj\Debug\net6.0\Polymorphism,Abstraction.genruntimeconfig.cache
+D:\C#\Polymorphism,Abstraction\obj\Debug\net6.0\ref\Polymorphism,Abstraction.dll
